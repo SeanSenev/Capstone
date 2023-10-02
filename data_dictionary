@@ -1,0 +1,20 @@
+-ICAO Aircraft type designator: This is the aircraft's unique designator or identifier based on the International Civil Aviation Organization standards. It indicates the model/type of aircraft.
+-First/Last known waypoint time (UTC): These likely mark the timestamps when the flight was first detected and when it reached its last known point in the North Atlantic region.
+-Direction: The direction of the flight, which could be 'E' for East or other directions.
+-Total flight dist (km): The total distance traveled by the flight.
+-Total fuel burn (kg): Total amount of fuel burnt during the flight, an important metric for environmental analysis.
+-Mean overall propulsion efficiency: This could represent how efficiently the aircraft's propulsion system operates.
+-Aircraft mass mean (kg): The average mass of the aircraft during its journey.
+-Mean nvPM number EI (kg-1): Not entirely clear, but might relate to some measure of particulate matter emissions.
+-Initial contrail length (km): The length of the contrail when it first forms. Contrails are the streaks of condensed water vapor created in the air by an airplane.
+-First/Last contrail waypoint time (UTC): The timestamps for when a contrail was first and last detected.
+-RHi initial, Mean/Stdev: Relative Humidity with respect to ice. Contrails can turn into cirrus clouds which can impact climate. RH values might indicate how conducive conditions are for contrail formation.
+-Temp initial, Mean (K)/Stdev (K): Temperatures at various points, possibly when the contrail forms and during its lifetime.
+-Persistent contrail length (km): Contrails can be short-lived or can persist and evolve into cirrus clouds. This length could indicate how long they stayed in the atmosphere.
+-Contrail altitude initial, Mean (ft): The altitude at which the contrail formed.
+-Contrail age, Mean (h)/Max (h): How long the contrail persisted.
+-Ice number initial, Mean (m-1)/Stdev (m-1): Possibly related to the number of ice particles in the contrail.
+-Tau contrail, Mean/Tau cirrus, Mean: Not completely clear, but tau often refers to optical depth in atmospheric science. This could provide insights into the visibility or thickness of contrails and cirrus clouds.
+-RF SW (W m-2), RF LW (W m-2), RF Net (W m-2): Radiative forcing values in shortwave, longwave, and net categories. Radiative forcing measures the change in energy in the atmosphere due to contrails or cirrus clouds and is crucial for understanding the climatic impact of aviation.
+-Total contrail EF (J): Energy footprint of the contrail.
+-SDR mean (W m-2), RSR mean (W m-2), OLR mean (W m-2): Various radiative measures, likely related to solar downwelling radiation, solar upwelling radiation, and outgoing longwave radiation.
