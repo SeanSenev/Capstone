@@ -1,0 +1,13 @@
+/* Overriding global link styles for the .about section */
+.about a {
+    color: #ffffff !important; /* Set text color for links to white */
+    text-decoration: none; /* Remove default underline */
+  }
+  
+  /* Adjust link color when hovered or visited */
+  .about a:hover,
+  .about a:visited {
+    color: #ffffff !important; /* Text color for visited links to white */
+    background-color: #346fbc; /* Background color on hover or visited */
+  }
+  

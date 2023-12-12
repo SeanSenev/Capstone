@@ -1,0 +1,251 @@
+.about {
+  background-color: #013A89; 
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about .overlap-group-wrapper {
+  background-color: #013A89; 
+  width: 1728px;
+  height: 1117px;
+}
+
+.about .frame {
+  display: flex;
+  width: 586px;
+  height: 105px;
+  align-items: center;
+  justify-content: center;
+  gap: 196px;
+  position: absolute;
+  top: 19px;
+  left: 571px;
+}
+
+.about .main-menu {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 3px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.about .navbar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.about .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about .div {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about .group {
+  position: absolute;
+  width: 139px;
+  height: 68px;
+  top: 37px;
+  left: 216px;
+  object-fit: cover;
+}
+
+.about .overlap {
+  position: absolute;
+  width: 1529px;
+  height: 872px;
+  top: 168px;
+  left: 98px;
+  background-color: #4f9bd9d4;
+  border-radius: 30px;
+}
+
+.about .overlap-2 {
+  position: absolute;
+  width: 1441px;
+  height: 665px;
+  top: 165px;
+  left: 46px;
+  background-color: #020f5d;
+  border-radius: 30px;
+}
+
+.about .group-2 {
+  position: absolute;
+  width: 1254px;
+  height: 301px;
+  top: 60px;
+  left: 97px;
+}
+
+.about .img {
+  position: absolute;
+  width: 270px;
+  height: 264px;
+  top: 18px;
+  left: 302px;
+}
+
+.about .your-contrail {
+  position: absolute;
+  width: 199px;
+  height: 179px;
+  top: 61px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.24px;
+  line-height: 25px;
+}
+
+.about .quicker-decisions-to {
+  position: absolute;
+  width: 259px;
+  height: 301px;
+  top: 0;
+  left: 985px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.24px;
+  line-height: 25px;
+}
+
+.about .real-time {
+  position: absolute;
+  width: 206px;
+  height: 179px;
+  top: 61px;
+  left: 676px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.24px;
+  line-height: 25px;
+}
+
+.about .span {
+  color: #ffffff;
+}
+
+.about .text-wrapper-2 {
+  font-weight: 800;
+  color: #4f9bd9;
+}
+
+.about .text-wrapper-3 {
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.about .text-wrapper-4 {
+  left: 224px;
+  position: absolute;
+  width: 55px;
+  height: 50px;
+  top: 125px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0.48px;
+  line-height: 20px;
+}
+
+.about .text-wrapper-5 {
+  left: 596px;
+  position: absolute;
+  width: 55px;
+  height: 50px;
+  top: 125px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0.48px;
+  line-height: 20px;
+}
+
+.about .arrow {
+  position: absolute;
+  width: 46px;
+  height: 22px;
+  top: 139px;
+  left: 905px;
+}
+
+.about .body {
+  width: 1384px;
+  top: 398px;
+  left: 24px;
+  font-weight: 400;
+  color: transparent;
+  font-size: 28px;
+  letter-spacing: 0.28px;
+  line-height: 45px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  text-align: center;
+}
+
+.about .text-wrapper-6 {
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+}
+
+.about .text-wrapper-7 {
+  font-weight: 900;
+  font-style: italic;
+  color: #4f9bd9;
+}
+
+.about .p {
+  width: 1162px;
+  top: 44px;
+  left: 200px;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0.32px;
+  line-height: 35px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  text-align: center;
+}
+
